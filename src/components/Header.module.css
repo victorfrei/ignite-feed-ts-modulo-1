@@ -1,0 +1,25 @@
+.header {
+    background: var(--gray-800);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.25rem 0;
+    gap: 1rem;
+}
+
+.header img{
+    height: 2.5rem;
+}
+
+.headerText {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.logoContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    height: 3.75rem;
+}
